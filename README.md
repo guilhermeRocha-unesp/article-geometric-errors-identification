@@ -10,5 +10,6 @@ The experiment consisted on measuring geometric error of the machine axes throug
 - Normality and homogeneity of variances checked;
 - Data transformation attempt;
 - Statistical inference through Aligned Ranked Transform non-parametric procedure;
+- Statistical inference through Analysis of Variance and Tukey test;
 - Contrast tests to evaluate the significant differences;
 - Simulation of a machining process.
